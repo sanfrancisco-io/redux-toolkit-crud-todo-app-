@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "title": "asfafsafasf",
+      "status": "TODO",
+      "id": 1
+    },
+    {
+      "title": "asdasd",
+      "status": "DONE",
+      "id": 2
+    }
+  ]
+}

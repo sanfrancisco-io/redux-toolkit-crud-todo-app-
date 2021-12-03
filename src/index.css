@@ -1,0 +1,35 @@
+body {
+  background: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  color: rgb(0, 0, 0);
+  padding: 0 20px 50px;
+}
+.out-todo-table{
+  display: flex;
+  border: 1px solid rgb(224, 216, 140);
+  border-radius: 10px;
+  margin: 10px 0 10px 0;
+  align-items: center;
+  padding-left: 20px;
+  justify-content: space-between;
+}
+.out-todo-item{
+  display: flex;
+  align-items: center;
+}
+.todo-status{
+  color: green;
+  margin: 10px;
+  border: 1px solid green;
+  border-radius: 5px;
+}
+.selec-option{
+  outline: none;
+  border:none;
+  margin: 10px;
+  font-size: 18px;
+  background-color: #51a582;
+  border-radius: 4px;
+}
